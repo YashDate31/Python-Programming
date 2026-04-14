@@ -1,1 +1,0 @@
-print("Common elements:", common)

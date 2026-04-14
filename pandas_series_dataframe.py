@@ -18,7 +18,7 @@ print("\nAccess element at index 2:", s2[2])
 
 # 4. Create DataFrame using Dictionary
 data = {
-    'Name': ['Yash', 'Vijay', 'Rahul'],
+    'Name': ['Yash', 'Vijay', 'date'],
     'Marks': [85, 90, 78]
 }
 
